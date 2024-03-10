@@ -18,3 +18,7 @@ An interactive to-do list mobile app built with Flutter. Manage your tasks effic
   - Persist data between app sessions.
 
 ## Screenshots
+
+![Task Page Light Mode](assets/images/Screenshot1.png) ![Create_Task](assets/images/Screenshot2.png)
+![Task_Page_Completed](assets/images/Screenshot3.png) ![Settings](assets/images/Screenshot4.png)
+
