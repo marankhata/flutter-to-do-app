@@ -1,16 +1,20 @@
-# to_do_list
+# ToDo List App
 
-A new Flutter project.
+An interactive to-do list mobile app built with Flutter. Manage your tasks efficiently with a user-friendly interface, customizable themes including light and dark modes, and efficient local storage using Hive database.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Tasks Page:**
+  - View a list of tasks.
+  - Mark tasks as done or undone.
+  - Delete tasks.
 
-A few resources to get you started if this is your first Flutter project:
+- **Settings Page:**
+  - Toggle between light and dark themes.
+  - Customize the app's appearance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Local Storage:**
+  - Efficiently store tasks using Hive database.
+  - Persist data between app sessions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
